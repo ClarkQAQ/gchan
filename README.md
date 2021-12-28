@@ -22,6 +22,10 @@
 
 ##### 示例
 
+可以运行 `example/local.go` 来运行回环测试
+也可以运行 `example/server` 和 `example/client` 来进行websocket测试
+
+
 1.服务端:
 
 
